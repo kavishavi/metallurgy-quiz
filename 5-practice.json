@@ -1,0 +1,76 @@
+{
+ "questions": [
+  {
+   "id": 1,
+   "question": "Which metal is liquid at room temperature?",
+   "option_1": "Sodium",
+   "option_2": "Lead",
+   "option_3": "Mercury",
+   "option_4": "Aluminium",
+   "correct_answer": 3,
+   "category": "Metals around us",
+   "note": "Mercury is the only metallic element that is liquid at standard conditions; gallium and caesium melt just above room temperature.",
+   "source": "https://en.wikipedia.org/wiki/Mercury_(element)"
+  },
+  {
+   "id": 2,
+   "question": "Which is the most abundant metal in the Earth's crust?",
+   "option_1": "Iron",
+   "option_2": "Aluminium",
+   "option_3": "Copper",
+   "option_4": "Zinc",
+   "correct_answer": 2,
+   "category": "Metals around us",
+   "note": "Aluminium makes up about 8% of the Earth's crust, more than any other metal.",
+   "source": "https://en.wikipedia.org/wiki/Aluminium"
+  },
+  {
+   "id": 3,
+   "question": "Which metal has the highest electrical conductivity of all metals?",
+   "option_1": "Copper",
+   "option_2": "Gold",
+   "option_3": "Aluminium",
+   "option_4": "Silver",
+   "correct_answer": 4,
+   "category": "Metals around us",
+   "note": "Silver beats copper, which is the more common (and cheaper) conductor in wires.",
+   "source": "https://en.wikipedia.org/wiki/Silver"
+  },
+  {
+   "id": 4,
+   "question": "Bronze is traditionally an alloy of copper and which metal?",
+   "option_1": "Tin",
+   "option_2": "Zinc",
+   "option_3": "Nickel",
+   "option_4": "Lead",
+   "correct_answer": 1,
+   "category": "Metals around us",
+   "note": "Modern bronze is typically about 88% copper and 12% tin.",
+   "source": "https://en.wikipedia.org/wiki/Bronze"
+  },
+  {
+   "id": 5,
+   "question": "Brass is an alloy of copper and which metal?",
+   "option_1": "Tin",
+   "option_2": "Lead",
+   "option_3": "Zinc",
+   "option_4": "Aluminium",
+   "correct_answer": 3,
+   "category": "Metals around us",
+   "note": "The copper-to-zinc ratio is varied to get different colours and properties.",
+   "source": "https://en.wikipedia.org/wiki/Brass"
+  },
+  {
+   "id": 6,
+   "question": "When zinc reacts with dilute sulfuric acid, which gas is released?",
+   "option_1": "Oxygen",
+   "option_2": "Carbon dioxide",
+   "option_3": "Chlorine",
+   "option_4": "Hydrogen",
+   "correct_answer": 4,
+   "category": "Metals around us",
+   "note": "The acid strips zinc's protective layer and the reaction releases hydrogen gas.",
+   "source": "https://en.wikipedia.org/wiki/Zinc"
+  }
+ ]
+}
