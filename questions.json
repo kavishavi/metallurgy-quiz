@@ -1,543 +1,543 @@
 {
- "days": [
-  {
-   "date": "2026-11-21",
-   "questions": [
+  "days": [
     {
-     "id": 1,
-     "question": "Which metal is liquid at room temperature?",
-     "option_1": "Sodium",
-     "option_2": "Lead",
-     "option_3": "Mercury",
-     "option_4": "Aluminium",
-     "correct_answer": 3,
-     "category": "Metals around us",
-     "note": "Mercury is the only metallic element that is liquid at standard conditions; gallium and caesium melt just above room temperature.",
-     "source": "https://en.wikipedia.org/wiki/Mercury_(element)"
+      "date": "2026-11-21",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which metal is liquid at room temperature?",
+          "option_1": "Sodium",
+          "option_2": "Lead",
+          "option_3": "Mercury",
+          "option_4": "Aluminium",
+          "correct_answer": 3,
+          "category": "Metals around us",
+          "note": "Mercury is the only metallic element that is liquid at standard conditions; gallium and caesium melt just above room temperature.",
+          "source": "https://en.wikipedia.org/wiki/Mercury_(element)"
+        },
+        {
+          "id": 2,
+          "question": "Which is the most abundant metal in the Earth's crust?",
+          "option_1": "Iron",
+          "option_2": "Aluminium",
+          "option_3": "Copper",
+          "option_4": "Zinc",
+          "correct_answer": 2,
+          "category": "Metals around us",
+          "note": "Aluminium makes up about 8% of the Earth's crust, more than any other metal.",
+          "source": "https://en.wikipedia.org/wiki/Aluminium"
+        },
+        {
+          "id": 3,
+          "question": "Which metal has the highest electrical conductivity of all metals?",
+          "option_1": "Mercury",
+          "option_2": "Platinum",
+          "option_3": "Aluminium",
+          "option_4": "Silver",
+          "correct_answer": 4,
+          "category": "Metals around us",
+          "note": "Silver beats copper, which is the more common (and cheaper) conductor in wires.",
+          "source": "https://en.wikipedia.org/wiki/Silver"
+        },
+        {
+          "id": 4,
+          "question": "Bronze is traditionally an alloy of copper and which metal?",
+          "option_1": "Tin",
+          "option_2": "Zinc",
+          "option_3": "Nickel",
+          "option_4": "Lead",
+          "correct_answer": 1,
+          "category": "Metals around us",
+          "note": "Modern bronze is typically about 88% copper and 12% tin.",
+          "source": "https://en.wikipedia.org/wiki/Bronze"
+        },
+        {
+          "id": 5,
+          "question": "Brass is an alloy of copper and which metal?",
+          "option_1": "Copper",
+          "option_2": "Nickel",
+          "option_3": "Zinc",
+          "option_4": "Aluminium",
+          "correct_answer": 3,
+          "category": "Metals around us",
+          "note": "The copper-to-zinc ratio is varied to get different colours and properties.",
+          "source": "https://en.wikipedia.org/wiki/Brass"
+        },
+        {
+          "id": 6,
+          "question": "When zinc reacts with dilute sulfuric acid, which gas is released?",
+          "option_1": "Oxygen",
+          "option_2": "Carbon dioxide",
+          "option_3": "Chlorine",
+          "option_4": "Hydrogen",
+          "correct_answer": 4,
+          "category": "Metals around us",
+          "note": "The acid strips zinc's protective layer and the reaction releases hydrogen gas.",
+          "source": "https://en.wikipedia.org/wiki/Zinc"
+        }
+      ]
     },
     {
-     "id": 2,
-     "question": "Which is the most abundant metal in the Earth's crust?",
-     "option_1": "Iron",
-     "option_2": "Aluminium",
-     "option_3": "Copper",
-     "option_4": "Zinc",
-     "correct_answer": 2,
-     "category": "Metals around us",
-     "note": "Aluminium makes up about 8% of the Earth's crust, more than any other metal.",
-     "source": "https://en.wikipedia.org/wiki/Aluminium"
+      "date": "2026-11-22",
+      "questions": [
+        {
+          "id": 7,
+          "question": "Which mineral is the main ore of iron?",
+          "option_1": "Bauxite",
+          "option_2": "Galena",
+          "option_3": "Hematite",
+          "option_4": "Chalcopyrite",
+          "correct_answer": 3,
+          "category": "Iron and steel",
+          "note": "Hematite (Fe2O3) is the main ore of iron; bauxite is the ore of aluminium.",
+          "source": "https://en.wikipedia.org/wiki/Hematite"
+        },
+        {
+          "id": 8,
+          "question": "Cast iron typically contains how much carbon?",
+          "option_1": "More than 2%",
+          "option_2": "0.1-0.3%",
+          "option_3": "Less than 0.05%",
+          "option_4": "Exactly 0%",
+          "correct_answer": 1,
+          "category": "Iron and steel",
+          "note": "Cast iron has more than 2% carbon, which makes it hard but brittle; steel has less.",
+          "source": "https://en.wikipedia.org/wiki/Cast_iron"
+        },
+        {
+          "id": 9,
+          "question": "Stainless steels contain a minimum of about how much chromium?",
+          "option_1": "1.5%",
+          "option_2": "10.5%",
+          "option_3": "25%",
+          "option_4": "50%",
+          "correct_answer": 2,
+          "category": "Iron and steel",
+          "note": "At least about 10.5% chromium is needed to form the protective surface layer.",
+          "source": "https://en.wikipedia.org/wiki/Stainless_steel"
+        },
+        {
+          "id": 10,
+          "question": "In a blast furnace, what is the main role of coke?",
+          "option_1": "A flux that removes impurities from the melt",
+          "option_2": "A reducing agent for the iron ore",
+          "option_3": "A coolant for the furnace",
+          "option_4": "A lining material for the furnace",
+          "correct_answer": 2,
+          "category": "Iron and steel",
+          "note": "Coke (carbon) reduces the iron oxide to molten iron and also burns as fuel.",
+          "source": "https://en.wikipedia.org/wiki/Blast_furnace"
+        },
+        {
+          "id": 11,
+          "question": "In basic oxygen steelmaking, what is blown into molten pig iron to lower its carbon content?",
+          "option_1": "Compressed air",
+          "option_2": "Superheated steam",
+          "option_3": "Nitrogen",
+          "option_4": "Oxygen",
+          "correct_answer": 4,
+          "category": "Iron and steel",
+          "note": "Pure oxygen blown through the melt burns off excess carbon, turning pig iron into steel.",
+          "source": "https://en.wikipedia.org/wiki/Basic_oxygen_steelmaking"
+        },
+        {
+          "id": 12,
+          "question": "Wrought iron is best described as iron with what?",
+          "option_1": "Very low carbon content",
+          "option_2": "High carbon content",
+          "option_3": "Added chromium",
+          "option_4": "Added nickel and chromium",
+          "correct_answer": 1,
+          "category": "Iron and steel",
+          "note": "Wrought iron has less than about 0.05% carbon plus fibrous slag, making it soft and easy to forge.",
+          "source": "https://en.wikipedia.org/wiki/Wrought_iron"
+        }
+      ]
     },
     {
-     "id": 3,
-     "question": "Which metal has the highest electrical conductivity of all metals?",
-     "option_1": "Copper",
-     "option_2": "Gold",
-     "option_3": "Aluminium",
-     "option_4": "Silver",
-     "correct_answer": 4,
-     "category": "Metals around us",
-     "note": "Silver beats copper, which is the more common (and cheaper) conductor in wires.",
-     "source": "https://en.wikipedia.org/wiki/Silver"
+      "date": "2026-11-23",
+      "questions": [
+        {
+          "id": 13,
+          "question": "The eutectoid temperature in the iron-carbon diagram is about?",
+          "option_1": "527 °C",
+          "option_2": "727 °C",
+          "option_3": "912 °C",
+          "option_4": "1147 °C",
+          "correct_answer": 2,
+          "category": "Inside steel: phases and heat treatment",
+          "note": "At 727 °C austenite of eutectoid composition transforms into pearlite.",
+          "source": "https://en.wikipedia.org/wiki/Pearlite"
+        },
+        {
+          "id": 14,
+          "question": "Pearlite has a lamellar structure made of alternating layers of?",
+          "option_1": "Ferrite and cementite",
+          "option_2": "Austenite and martensite",
+          "option_3": "Ferrite and austenite",
+          "option_4": "Cementite and graphite",
+          "correct_answer": 1,
+          "category": "Inside steel: phases and heat treatment",
+          "note": "Pearlite is roughly 87% soft ferrite and 13% hard cementite in layers.",
+          "source": "https://en.wikipedia.org/wiki/Pearlite"
+        },
+        {
+          "id": 15,
+          "question": "The eutectoid composition of steel is about how much carbon?",
+          "option_1": "0.022%",
+          "option_2": "0.25%",
+          "option_3": "0.76%",
+          "option_4": "4.3%",
+          "correct_answer": 3,
+          "category": "Inside steel: phases and heat treatment",
+          "note": "A steel with 0.76% carbon transforms entirely into pearlite at the eutectoid temperature.",
+          "source": "https://en.wikipedia.org/wiki/Pearlite"
+        },
+        {
+          "id": 16,
+          "question": "Martensite forms in carbon steels when austenite is?",
+          "option_1": "Slowly cooled in the furnace",
+          "option_2": "Heated above 1500 °C",
+          "option_3": "Rapidly quenched",
+          "option_4": "Held at 600 °C for days",
+          "correct_answer": 3,
+          "category": "Inside steel: phases and heat treatment",
+          "note": "Quenching is so fast that carbon atoms cannot escape, trapping them in a hard, strained structure.",
+          "source": "https://en.wikipedia.org/wiki/Martensite"
+        },
+        {
+          "id": 17,
+          "question": "Austenite (gamma iron) has which crystal structure?",
+          "option_1": "Body-centered cubic",
+          "option_2": "Face-centered cubic",
+          "option_3": "Hexagonal close-packed",
+          "option_4": "Body-centered tetragonal",
+          "correct_answer": 2,
+          "category": "Inside steel: phases and heat treatment",
+          "note": "Above 912 °C iron switches from body-centered cubic to the face-centered cubic gamma form.",
+          "source": "https://en.wikipedia.org/wiki/Austenite"
+        },
+        {
+          "id": 18,
+          "question": "Annealing is a heat treatment used mainly to?",
+          "option_1": "Harden the surface",
+          "option_2": "Melt the metal completely",
+          "option_3": "Add carbon to the surface by carburizing",
+          "option_4": "Increase ductility and reduce hardness",
+          "correct_answer": 4,
+          "category": "Inside steel: phases and heat treatment",
+          "note": "Annealing softens the metal and relieves internal stresses, making it more workable.",
+          "source": "https://en.wikipedia.org/wiki/Annealing_(materials_science)"
+        }
+      ]
     },
     {
-     "id": 4,
-     "question": "Bronze is traditionally an alloy of copper and which metal?",
-     "option_1": "Tin",
-     "option_2": "Zinc",
-     "option_3": "Nickel",
-     "option_4": "Lead",
-     "correct_answer": 1,
-     "category": "Metals around us",
-     "note": "Modern bronze is typically about 88% copper and 12% tin.",
-     "source": "https://en.wikipedia.org/wiki/Bronze"
+      "date": "2026-11-24",
+      "questions": [
+        {
+          "id": 19,
+          "question": "In the Hall-Héroult process, alumina dissolved in molten cryolite is treated how to extract aluminium?",
+          "option_1": "Roasted with coke",
+          "option_2": "Electrolysed",
+          "option_3": "Distilled under vacuum",
+          "option_4": "Leached with acid",
+          "correct_answer": 2,
+          "category": "Non-ferrous metals",
+          "note": "Electric current through the molten bath deposits aluminium metal at the cathode.",
+          "source": "https://en.wikipedia.org/wiki/Hall–Héroult_process"
+        },
+        {
+          "id": 20,
+          "question": "The Bayer process produces alumina from which ore?",
+          "option_1": "Hematite",
+          "option_2": "Magnetite",
+          "option_3": "Cassiterite",
+          "option_4": "Bauxite",
+          "correct_answer": 4,
+          "category": "Non-ferrous metals",
+          "note": "Bauxite is digested in hot caustic soda, leaving alumina that feeds the Hall-Héroult cells.",
+          "source": "https://en.wikipedia.org/wiki/Bayer_process"
+        },
+        {
+          "id": 21,
+          "question": "The Kroll process is the main industrial method for producing which metal?",
+          "option_1": "Magnesium",
+          "option_2": "Zinc",
+          "option_3": "Titanium",
+          "option_4": "Nickel",
+          "correct_answer": 3,
+          "category": "Non-ferrous metals",
+          "note": "Titanium tetrachloride is reduced with magnesium to give titanium sponge.",
+          "source": "https://en.wikipedia.org/wiki/Kroll_process"
+        },
+        {
+          "id": 22,
+          "question": "Pure copper for electrical use is produced at the final stage by?",
+          "option_1": "Electrolytic refining",
+          "option_2": "Zone melting",
+          "option_3": "Vacuum distillation",
+          "option_4": "Roasting",
+          "correct_answer": 1,
+          "category": "Non-ferrous metals",
+          "note": "Electrorefining deposits copper of about 99.99% purity at the cathode.",
+          "source": "https://en.wikipedia.org/wiki/Copper_extraction"
+        },
+        {
+          "id": 23,
+          "question": "Duralumin, one of the earliest age-hardenable alloys used in aircraft, is aluminium alloyed mainly with?",
+          "option_1": "Zinc",
+          "option_2": "Magnesium",
+          "option_3": "Lithium",
+          "option_4": "Copper",
+          "correct_answer": 4,
+          "category": "Non-ferrous metals",
+          "note": "Duralumin is a classic aluminium-copper alloy that gains strength as fine precipitates form.",
+          "source": "https://en.wikipedia.org/wiki/Duralumin"
+        },
+        {
+          "id": 24,
+          "question": "Galvanization protects steel or iron from rusting by coating it with?",
+          "option_1": "Copper",
+          "option_2": "Zinc",
+          "option_3": "Chromium",
+          "option_4": "Nickel",
+          "correct_answer": 2,
+          "category": "Non-ferrous metals",
+          "note": "The zinc coating shields the steel and corrodes sacrificially in its place.",
+          "source": "https://en.wikipedia.org/wiki/Galvanization"
+        }
+      ]
     },
     {
-     "id": 5,
-     "question": "Brass is an alloy of copper and which metal?",
-     "option_1": "Tin",
-     "option_2": "Lead",
-     "option_3": "Zinc",
-     "option_4": "Aluminium",
-     "correct_answer": 3,
-     "category": "Metals around us",
-     "note": "The copper-to-zinc ratio is varied to get different colours and properties.",
-     "source": "https://en.wikipedia.org/wiki/Brass"
+      "date": "2026-11-25",
+      "questions": [
+        {
+          "id": 25,
+          "question": "The Charpy V-notch test measures what property of a material?",
+          "option_1": "Resistance to permanent surface indentation",
+          "option_2": "Energy absorbed during fracture",
+          "option_3": "Electrical conductivity",
+          "option_4": "Density",
+          "correct_answer": 2,
+          "category": "Testing and properties",
+          "note": "A swinging pendulum breaks the notched sample; the energy it loses is the material's toughness.",
+          "source": "https://en.wikipedia.org/wiki/Charpy_impact_test"
+        },
+        {
+          "id": 26,
+          "question": "The ultimate tensile strength (UTS) is?",
+          "option_1": "The stress at which a material starts to deform permanently under load",
+          "option_2": "The stress at fracture under impact",
+          "option_3": "The maximum stress a material can withstand while being stretched",
+          "option_4": "The stress a material can bear forever",
+          "correct_answer": 3,
+          "category": "Testing and properties",
+          "note": "UTS is the peak of the stress-strain curve, the highest load the material can take in tension.",
+          "source": "https://en.wikipedia.org/wiki/Ultimate_tensile_strength"
+        },
+        {
+          "id": 27,
+          "question": "The Brinell hardness test presses what into the material's surface?",
+          "option_1": "A diamond pyramid",
+          "option_2": "A sharp steel cone",
+          "option_3": "A tungsten carbide ball",
+          "option_4": "A sapphire needle",
+          "correct_answer": 3,
+          "category": "Testing and properties",
+          "note": "A hard ball (usually tungsten carbide) is pushed in under a set load; the dent size gives the hardness.",
+          "source": "https://en.wikipedia.org/wiki/Brinell_scale"
+        },
+        {
+          "id": 28,
+          "question": "Fatigue failure in a material is caused by?",
+          "option_1": "A single sudden overload",
+          "option_2": "Exposure to high temperature only",
+          "option_3": "Contact with chemicals",
+          "option_4": "Repeated (cyclic) loading",
+          "correct_answer": 4,
+          "category": "Testing and properties",
+          "note": "Cracks start and grow under many load cycles, even at stresses below the ultimate strength.",
+          "source": "https://en.wikipedia.org/wiki/Fatigue_(material)"
+        },
+        {
+          "id": 29,
+          "question": "Creep is the tendency of a solid material to?",
+          "option_1": "Fracture suddenly without any applied load",
+          "option_2": "Deform slowly and permanently under stress",
+          "option_3": "Become magnetic over time",
+          "option_4": "Turn brittle from cold",
+          "correct_answer": 2,
+          "category": "Testing and properties",
+          "note": "Creep gets worse with time and temperature, which is why it matters in turbines and boilers.",
+          "source": "https://en.wikipedia.org/wiki/Creep_(deformation)"
+        },
+        {
+          "id": 30,
+          "question": "In a tensile test, ductility is commonly measured by?",
+          "option_1": "Percentage elongation at fracture",
+          "option_2": "Maximum load reached",
+          "option_3": "Hardness number",
+          "option_4": "Modulus of elasticity",
+          "correct_answer": 1,
+          "category": "Testing and properties",
+          "note": "How much the sample stretches before breaking, in percent, tells how ductile it is.",
+          "source": "https://en.wikipedia.org/wiki/Ductility"
+        }
+      ]
     },
     {
-     "id": 6,
-     "question": "When zinc reacts with dilute sulfuric acid, which gas is released?",
-     "option_1": "Oxygen",
-     "option_2": "Carbon dioxide",
-     "option_3": "Chlorine",
-     "option_4": "Hydrogen",
-     "correct_answer": 4,
-     "category": "Metals around us",
-     "note": "The acid strips zinc's protective layer and the reaction releases hydrogen gas.",
-     "source": "https://en.wikipedia.org/wiki/Zinc"
+      "date": "2026-11-26",
+      "questions": [
+        {
+          "id": 31,
+          "question": "Rust forms when iron reacts with oxygen in the presence of?",
+          "option_1": "Carbon dioxide from the air",
+          "option_2": "Nitrogen",
+          "option_3": "Water or moisture",
+          "option_4": "Sulfur",
+          "correct_answer": 3,
+          "category": "Corrosion and joining",
+          "note": "Rust is a mix of iron oxides and hydroxides that needs both oxygen and moisture to form.",
+          "source": "https://en.wikipedia.org/wiki/Rust"
+        },
+        {
+          "id": 32,
+          "question": "Sacrificial anodes protecting ship hulls and pipelines are commonly made of?",
+          "option_1": "Copper, chromium or manganese",
+          "option_2": "Zinc, aluminium or magnesium",
+          "option_3": "Lead",
+          "option_4": "Tin",
+          "correct_answer": 2,
+          "category": "Corrosion and joining",
+          "note": "These metals are more active than steel, so they corrode first and spare the structure.",
+          "source": "https://en.wikipedia.org/wiki/Galvanic_anode"
+        },
+        {
+          "id": 33,
+          "question": "TIG (tungsten inert gas) welding uses which kind of electrode?",
+          "option_1": "A non-consumable tungsten electrode",
+          "option_2": "A consumable copper electrode",
+          "option_3": "A plain carbon rod",
+          "option_4": "A coated steel rod",
+          "correct_answer": 1,
+          "category": "Corrosion and joining",
+          "note": "The tungsten electrode does not melt; an inert gas shields the arc and the weld pool.",
+          "source": "https://en.wikipedia.org/wiki/Gas_tungsten_arc_welding"
+        },
+        {
+          "id": 34,
+          "question": "Traditional solder used to join electronic components is a fusible alloy of?",
+          "option_1": "Copper and zinc",
+          "option_2": "Aluminium and magnesium",
+          "option_3": "Tin and lead",
+          "option_4": "Silver and gold",
+          "correct_answer": 3,
+          "category": "Corrosion and joining",
+          "note": "Classic solder melts at low temperature to bond metal parts without melting them.",
+          "source": "https://en.wikipedia.org/wiki/Solder"
+        },
+        {
+          "id": 35,
+          "question": "Carburizing hardens the surface of steel by making it absorb which element while heated?",
+          "option_1": "Nitrogen",
+          "option_2": "Chromium",
+          "option_3": "Carbon",
+          "option_4": "Boron",
+          "correct_answer": 3,
+          "category": "Corrosion and joining",
+          "note": "Heating steel in a carbon-rich medium diffuses carbon into the surface so it can be hardened.",
+          "source": "https://en.wikipedia.org/wiki/Carburizing"
+        },
+        {
+          "id": 36,
+          "question": "In galvanic corrosion of two different metals in contact, which metal corrodes preferentially?",
+          "option_1": "The more noble (less active) metal",
+          "option_2": "The heavier metal",
+          "option_3": "The softer metal",
+          "option_4": "The more active (less noble) metal",
+          "correct_answer": 4,
+          "category": "Corrosion and joining",
+          "note": "The more active metal becomes the anode of the galvanic cell and corrodes first.",
+          "source": "https://en.wikipedia.org/wiki/Galvanic_corrosion"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "questions": [
+        {
+          "id": 37,
+          "question": "The iron pillar of Delhi is famous for what?",
+          "option_1": "Being made of stainless steel",
+          "option_2": "Resisting corrosion for over 1,600 years",
+          "option_3": "Being India's tallest pillar",
+          "option_4": "Containing traces of gold",
+          "correct_answer": 2,
+          "category": "Metallurgy in India and modern materials",
+          "note": "A protective film on its high-phosphorus iron has kept it nearly rust-free for centuries.",
+          "source": "https://en.wikipedia.org/wiki/Iron_pillar_of_Delhi"
+        },
+        {
+          "id": 38,
+          "question": "Wootz steel, a high-carbon crucible steel once famous worldwide, originated in?",
+          "option_1": "India",
+          "option_2": "China",
+          "option_3": "Persia",
+          "option_4": "Egypt",
+          "correct_answer": 1,
+          "category": "Metallurgy in India and modern materials",
+          "note": "Wootz steel was made in ancient India from the mid-1st millennium BC and traded widely.",
+          "source": "https://en.wikipedia.org/wiki/Wootz_steel"
+        },
+        {
+          "id": 39,
+          "question": "Which country produced more than half of the world's steel in 2023?",
+          "option_1": "India",
+          "option_2": "United States",
+          "option_3": "Japan",
+          "option_4": "China",
+          "correct_answer": 4,
+          "category": "Metallurgy in India and modern materials",
+          "note": "China accounted for about 54% of world steel production in 2023.",
+          "source": "https://en.wikipedia.org/wiki/List_of_countries_by_steel_production"
+        },
+        {
+          "id": 40,
+          "question": "Nickel-based superalloys are the material of choice for which high-temperature application?",
+          "option_1": "Bridge cables",
+          "option_2": "Gas turbine blades in jet engines",
+          "option_3": "Ship propellers",
+          "option_4": "Railway tracks",
+          "correct_answer": 2,
+          "category": "Metallurgy in India and modern materials",
+          "note": "They keep their strength near their melting point, ideal for hot turbine sections.",
+          "source": "https://en.wikipedia.org/wiki/Superalloy"
+        },
+        {
+          "id": 41,
+          "question": "Nitinol, the shape-memory alloy, is made of nickel and which other metal in roughly equal atomic percentages?",
+          "option_1": "Titanium",
+          "option_2": "Aluminium",
+          "option_3": "Cobalt",
+          "option_4": "Chromium",
+          "correct_answer": 1,
+          "category": "Metallurgy in India and modern materials",
+          "note": "Nickel-titanium 'remembers' its shape and springs back when warmed.",
+          "source": "https://en.wikipedia.org/wiki/Nickel_titanium"
+        },
+        {
+          "id": 42,
+          "question": "Tata Iron and Steel Company (TISCO) was established in 1907 in which city?",
+          "option_1": "Bhilai",
+          "option_2": "Rourkela",
+          "option_3": "Jamshedpur",
+          "option_4": "Durgapur",
+          "correct_answer": 3,
+          "category": "Metallurgy in India and modern materials",
+          "note": "The company was established on 26 August 1907 in Jamshedpur.",
+          "source": "https://en.wikipedia.org/wiki/Tata_Steel"
+        }
+      ]
     }
-   ]
-  },
-  {
-   "date": "2026-11-22",
-   "questions": [
-    {
-     "id": 7,
-     "question": "Which mineral is the main ore of iron?",
-     "option_1": "Bauxite",
-     "option_2": "Galena",
-     "option_3": "Hematite",
-     "option_4": "Chalcopyrite",
-     "correct_answer": 3,
-     "category": "Iron and steel",
-     "note": "Hematite (Fe2O3) is the main ore of iron; bauxite is the ore of aluminium.",
-     "source": "https://en.wikipedia.org/wiki/Hematite"
-    },
-    {
-     "id": 8,
-     "question": "Cast iron typically contains how much carbon?",
-     "option_1": "More than 2%",
-     "option_2": "0.1-0.3%",
-     "option_3": "Less than 0.05%",
-     "option_4": "Exactly 0%",
-     "correct_answer": 1,
-     "category": "Iron and steel",
-     "note": "Cast iron has more than 2% carbon, which makes it hard but brittle; steel has less.",
-     "source": "https://en.wikipedia.org/wiki/Cast_iron"
-    },
-    {
-     "id": 9,
-     "question": "Stainless steels contain a minimum of about how much chromium?",
-     "option_1": "1.5%",
-     "option_2": "10.5%",
-     "option_3": "25%",
-     "option_4": "50%",
-     "correct_answer": 2,
-     "category": "Iron and steel",
-     "note": "At least about 10.5% chromium is needed to form the protective surface layer.",
-     "source": "https://en.wikipedia.org/wiki/Stainless_steel"
-    },
-    {
-     "id": 10,
-     "question": "In a blast furnace, what is the main role of coke?",
-     "option_1": "A flux that removes impurities",
-     "option_2": "A reducing agent for the iron ore",
-     "option_3": "A coolant for the furnace",
-     "option_4": "A lining material for the furnace",
-     "correct_answer": 2,
-     "category": "Iron and steel",
-     "note": "Coke (carbon) reduces the iron oxide to molten iron and also burns as fuel.",
-     "source": "https://en.wikipedia.org/wiki/Blast_furnace"
-    },
-    {
-     "id": 11,
-     "question": "In basic oxygen steelmaking, what is blown into molten pig iron to lower its carbon content?",
-     "option_1": "Air",
-     "option_2": "Steam",
-     "option_3": "Nitrogen",
-     "option_4": "Oxygen",
-     "correct_answer": 4,
-     "category": "Iron and steel",
-     "note": "Pure oxygen blown through the melt burns off excess carbon, turning pig iron into steel.",
-     "source": "https://en.wikipedia.org/wiki/Basic_oxygen_steelmaking"
-    },
-    {
-     "id": 12,
-     "question": "Wrought iron is best described as iron with what?",
-     "option_1": "Very low carbon content",
-     "option_2": "High carbon content",
-     "option_3": "Added chromium",
-     "option_4": "Added nickel",
-     "correct_answer": 1,
-     "category": "Iron and steel",
-     "note": "Wrought iron has less than about 0.05% carbon plus fibrous slag, making it soft and easy to forge.",
-     "source": "https://en.wikipedia.org/wiki/Wrought_iron"
-    }
-   ]
-  },
-  {
-   "date": "2026-11-23",
-   "questions": [
-    {
-     "id": 13,
-     "question": "The eutectoid temperature in the iron-carbon diagram is about?",
-     "option_1": "527 °C",
-     "option_2": "727 °C",
-     "option_3": "912 °C",
-     "option_4": "1147 °C",
-     "correct_answer": 2,
-     "category": "Inside steel: phases and heat treatment",
-     "note": "At 727 °C austenite of eutectoid composition transforms into pearlite.",
-     "source": "https://en.wikipedia.org/wiki/Pearlite"
-    },
-    {
-     "id": 14,
-     "question": "Pearlite has a lamellar structure made of alternating layers of?",
-     "option_1": "Ferrite and cementite",
-     "option_2": "Austenite and martensite",
-     "option_3": "Ferrite and austenite",
-     "option_4": "Cementite and graphite",
-     "correct_answer": 1,
-     "category": "Inside steel: phases and heat treatment",
-     "note": "Pearlite is roughly 87% soft ferrite and 13% hard cementite in layers.",
-     "source": "https://en.wikipedia.org/wiki/Pearlite"
-    },
-    {
-     "id": 15,
-     "question": "The eutectoid composition of steel is about how much carbon?",
-     "option_1": "0.022%",
-     "option_2": "0.25%",
-     "option_3": "0.76%",
-     "option_4": "4.3%",
-     "correct_answer": 3,
-     "category": "Inside steel: phases and heat treatment",
-     "note": "A steel with 0.76% carbon transforms entirely into pearlite at the eutectoid temperature.",
-     "source": "https://en.wikipedia.org/wiki/Pearlite"
-    },
-    {
-     "id": 16,
-     "question": "Martensite forms in carbon steels when austenite is?",
-     "option_1": "Slowly cooled in the furnace",
-     "option_2": "Heated above 1500 °C",
-     "option_3": "Rapidly quenched",
-     "option_4": "Held at 600 °C for days",
-     "correct_answer": 3,
-     "category": "Inside steel: phases and heat treatment",
-     "note": "Quenching is so fast that carbon atoms cannot escape, trapping them in a hard, strained structure.",
-     "source": "https://en.wikipedia.org/wiki/Martensite"
-    },
-    {
-     "id": 17,
-     "question": "Austenite (gamma iron) has which crystal structure?",
-     "option_1": "Body-centered cubic",
-     "option_2": "Face-centered cubic",
-     "option_3": "Hexagonal close-packed",
-     "option_4": "Body-centered tetragonal",
-     "correct_answer": 2,
-     "category": "Inside steel: phases and heat treatment",
-     "note": "Above 912 °C iron switches from body-centered cubic to the face-centered cubic gamma form.",
-     "source": "https://en.wikipedia.org/wiki/Austenite"
-    },
-    {
-     "id": 18,
-     "question": "Annealing is a heat treatment used mainly to?",
-     "option_1": "Harden the surface",
-     "option_2": "Melt the metal completely",
-     "option_3": "Add carbon to the surface",
-     "option_4": "Increase ductility and reduce hardness",
-     "correct_answer": 4,
-     "category": "Inside steel: phases and heat treatment",
-     "note": "Annealing softens the metal and relieves internal stresses, making it more workable.",
-     "source": "https://en.wikipedia.org/wiki/Annealing_(materials_science)"
-    }
-   ]
-  },
-  {
-   "date": "2026-11-24",
-   "questions": [
-    {
-     "id": 19,
-     "question": "In the Hall-Héroult process, alumina dissolved in molten cryolite is treated how to extract aluminium?",
-     "option_1": "Roasted with coke",
-     "option_2": "Electrolysed",
-     "option_3": "Distilled",
-     "option_4": "Leached with acid",
-     "correct_answer": 2,
-     "category": "Non-ferrous metals",
-     "note": "Electric current through the molten bath deposits aluminium metal at the cathode.",
-     "source": "https://en.wikipedia.org/wiki/Hall–Héroult_process"
-    },
-    {
-     "id": 20,
-     "question": "The Bayer process produces alumina from which ore?",
-     "option_1": "Hematite",
-     "option_2": "Galena",
-     "option_3": "Cassiterite",
-     "option_4": "Bauxite",
-     "correct_answer": 4,
-     "category": "Non-ferrous metals",
-     "note": "Bauxite is digested in hot caustic soda, leaving alumina that feeds the Hall-Héroult cells.",
-     "source": "https://en.wikipedia.org/wiki/Bayer_process"
-    },
-    {
-     "id": 21,
-     "question": "The Kroll process is the main industrial method for producing which metal?",
-     "option_1": "Magnesium",
-     "option_2": "Zinc",
-     "option_3": "Titanium",
-     "option_4": "Nickel",
-     "correct_answer": 3,
-     "category": "Non-ferrous metals",
-     "note": "Titanium tetrachloride is reduced with magnesium to give titanium sponge.",
-     "source": "https://en.wikipedia.org/wiki/Kroll_process"
-    },
-    {
-     "id": 22,
-     "question": "Pure copper for electrical use is produced at the final stage by?",
-     "option_1": "Electrolytic refining",
-     "option_2": "Zone melting",
-     "option_3": "Vacuum distillation",
-     "option_4": "Roasting",
-     "correct_answer": 1,
-     "category": "Non-ferrous metals",
-     "note": "Electrorefining deposits copper of about 99.99% purity at the cathode.",
-     "source": "https://en.wikipedia.org/wiki/Copper_extraction"
-    },
-    {
-     "id": 23,
-     "question": "Duralumin, one of the earliest age-hardenable alloys used in aircraft, is aluminium alloyed mainly with?",
-     "option_1": "Zinc",
-     "option_2": "Magnesium",
-     "option_3": "Lithium",
-     "option_4": "Copper",
-     "correct_answer": 4,
-     "category": "Non-ferrous metals",
-     "note": "Duralumin is a classic aluminium-copper alloy that gains strength as fine precipitates form.",
-     "source": "https://en.wikipedia.org/wiki/Duralumin"
-    },
-    {
-     "id": 24,
-     "question": "Galvanization protects steel or iron from rusting by coating it with?",
-     "option_1": "Tin",
-     "option_2": "Zinc",
-     "option_3": "Chromium",
-     "option_4": "Nickel",
-     "correct_answer": 2,
-     "category": "Non-ferrous metals",
-     "note": "The zinc coating shields the steel and corrodes sacrificially in its place.",
-     "source": "https://en.wikipedia.org/wiki/Galvanization"
-    }
-   ]
-  },
-  {
-   "date": "2026-11-25",
-   "questions": [
-    {
-     "id": 25,
-     "question": "The Charpy V-notch test measures what property of a material?",
-     "option_1": "Hardness",
-     "option_2": "Energy absorbed during fracture (impact toughness)",
-     "option_3": "Electrical conductivity",
-     "option_4": "Density",
-     "correct_answer": 2,
-     "category": "Testing and properties",
-     "note": "A swinging pendulum breaks the notched sample; the energy it loses is the material's toughness.",
-     "source": "https://en.wikipedia.org/wiki/Charpy_impact_test"
-    },
-    {
-     "id": 26,
-     "question": "The ultimate tensile strength (UTS) is?",
-     "option_1": "The stress at which a material starts to deform permanently",
-     "option_2": "The stress at fracture under impact",
-     "option_3": "The maximum stress a material can withstand while being stretched",
-     "option_4": "The stress a material can bear forever",
-     "correct_answer": 3,
-     "category": "Testing and properties",
-     "note": "UTS is the peak of the stress-strain curve, the highest load the material can take in tension.",
-     "source": "https://en.wikipedia.org/wiki/Ultimate_tensile_strength"
-    },
-    {
-     "id": 27,
-     "question": "The Brinell hardness test presses what into the material's surface?",
-     "option_1": "A diamond pyramid",
-     "option_2": "A sharp steel cone",
-     "option_3": "A tungsten carbide ball",
-     "option_4": "A sapphire needle",
-     "correct_answer": 3,
-     "category": "Testing and properties",
-     "note": "A hard ball (usually tungsten carbide) is pushed in under a set load; the dent size gives the hardness.",
-     "source": "https://en.wikipedia.org/wiki/Brinell_scale"
-    },
-    {
-     "id": 28,
-     "question": "Fatigue failure in a material is caused by?",
-     "option_1": "A single sudden overload",
-     "option_2": "Exposure to high temperature only",
-     "option_3": "Contact with chemicals",
-     "option_4": "Repeated (cyclic) loading",
-     "correct_answer": 4,
-     "category": "Testing and properties",
-     "note": "Cracks start and grow under many load cycles, even at stresses below the ultimate strength.",
-     "source": "https://en.wikipedia.org/wiki/Fatigue_(material)"
-    },
-    {
-     "id": 29,
-     "question": "Creep is the tendency of a solid material to?",
-     "option_1": "Fracture suddenly without any load",
-     "option_2": "Slowly deform permanently under persistent stress",
-     "option_3": "Become magnetic over time",
-     "option_4": "Turn brittle from cold",
-     "correct_answer": 2,
-     "category": "Testing and properties",
-     "note": "Creep gets worse with time and temperature, which is why it matters in turbines and boilers.",
-     "source": "https://en.wikipedia.org/wiki/Creep_(deformation)"
-    },
-    {
-     "id": 30,
-     "question": "In a tensile test, ductility is commonly measured by?",
-     "option_1": "Percentage elongation at fracture",
-     "option_2": "Maximum load reached",
-     "option_3": "Hardness number",
-     "option_4": "Modulus of elasticity",
-     "correct_answer": 1,
-     "category": "Testing and properties",
-     "note": "How much the sample stretches before breaking, in percent, tells how ductile it is.",
-     "source": "https://en.wikipedia.org/wiki/Ductility"
-    }
-   ]
-  },
-  {
-   "date": "2026-11-26",
-   "questions": [
-    {
-     "id": 31,
-     "question": "Rust forms when iron reacts with oxygen in the presence of?",
-     "option_1": "Carbon dioxide",
-     "option_2": "Nitrogen",
-     "option_3": "Water or moisture",
-     "option_4": "Sulfur",
-     "correct_answer": 3,
-     "category": "Corrosion and joining",
-     "note": "Rust is a mix of iron oxides and hydroxides that needs both oxygen and moisture to form.",
-     "source": "https://en.wikipedia.org/wiki/Rust"
-    },
-    {
-     "id": 32,
-     "question": "Sacrificial anodes protecting ship hulls and pipelines are commonly made of?",
-     "option_1": "Copper",
-     "option_2": "Zinc, aluminium or magnesium",
-     "option_3": "Lead",
-     "option_4": "Tin",
-     "correct_answer": 2,
-     "category": "Corrosion and joining",
-     "note": "These metals are more active than steel, so they corrode first and spare the structure.",
-     "source": "https://en.wikipedia.org/wiki/Galvanic_anode"
-    },
-    {
-     "id": 33,
-     "question": "TIG (tungsten inert gas) welding uses which kind of electrode?",
-     "option_1": "A non-consumable tungsten electrode",
-     "option_2": "A consumable copper electrode",
-     "option_3": "A plain carbon rod",
-     "option_4": "A coated steel rod",
-     "correct_answer": 1,
-     "category": "Corrosion and joining",
-     "note": "The tungsten electrode does not melt; an inert gas shields the arc and the weld pool.",
-     "source": "https://en.wikipedia.org/wiki/Gas_tungsten_arc_welding"
-    },
-    {
-     "id": 34,
-     "question": "Traditional solder used to join electronic components is a fusible alloy of?",
-     "option_1": "Copper and zinc",
-     "option_2": "Aluminium and magnesium",
-     "option_3": "Tin and lead",
-     "option_4": "Silver and gold",
-     "correct_answer": 3,
-     "category": "Corrosion and joining",
-     "note": "Classic solder melts at low temperature to bond metal parts without melting them.",
-     "source": "https://en.wikipedia.org/wiki/Solder"
-    },
-    {
-     "id": 35,
-     "question": "Carburizing hardens the surface of steel by making it absorb which element while heated?",
-     "option_1": "Nitrogen",
-     "option_2": "Chromium",
-     "option_3": "Carbon",
-     "option_4": "Boron",
-     "correct_answer": 3,
-     "category": "Corrosion and joining",
-     "note": "Heating steel in a carbon-rich medium diffuses carbon into the surface so it can be hardened.",
-     "source": "https://en.wikipedia.org/wiki/Carburizing"
-    },
-    {
-     "id": 36,
-     "question": "In galvanic corrosion of two different metals in contact, which metal corrodes preferentially?",
-     "option_1": "The more noble metal",
-     "option_2": "The heavier metal",
-     "option_3": "The softer metal",
-     "option_4": "The more active (less noble) metal",
-     "correct_answer": 4,
-     "category": "Corrosion and joining",
-     "note": "The more active metal becomes the anode of the galvanic cell and corrodes first.",
-     "source": "https://en.wikipedia.org/wiki/Galvanic_corrosion"
-    }
-   ]
-  },
-  {
-   "date": "2026-11-27",
-   "questions": [
-    {
-     "id": 37,
-     "question": "The iron pillar of Delhi is famous for what?",
-     "option_1": "Being made of stainless steel",
-     "option_2": "Resisting corrosion for over 1,600 years",
-     "option_3": "Being India's tallest pillar",
-     "option_4": "Containing traces of gold",
-     "correct_answer": 2,
-     "category": "Metallurgy in India and modern materials",
-     "note": "A protective film on its high-phosphorus iron has kept it nearly rust-free for centuries.",
-     "source": "https://en.wikipedia.org/wiki/Iron_pillar_of_Delhi"
-    },
-    {
-     "id": 38,
-     "question": "Wootz steel, a high-carbon crucible steel once famous worldwide, originated in?",
-     "option_1": "India",
-     "option_2": "China",
-     "option_3": "Persia",
-     "option_4": "Egypt",
-     "correct_answer": 1,
-     "category": "Metallurgy in India and modern materials",
-     "note": "Wootz steel was made in ancient India from the mid-1st millennium BC and traded widely.",
-     "source": "https://en.wikipedia.org/wiki/Wootz_steel"
-    },
-    {
-     "id": 39,
-     "question": "Which country produced more than half of the world's steel in 2023?",
-     "option_1": "India",
-     "option_2": "United States",
-     "option_3": "Japan",
-     "option_4": "China",
-     "correct_answer": 4,
-     "category": "Metallurgy in India and modern materials",
-     "note": "China accounted for about 54% of world steel production in 2023.",
-     "source": "https://en.wikipedia.org/wiki/List_of_countries_by_steel_production"
-    },
-    {
-     "id": 40,
-     "question": "Nickel-based superalloys are the material of choice for which high-temperature application?",
-     "option_1": "Bridge cables",
-     "option_2": "Gas turbine blades in jet engines",
-     "option_3": "Ship propellers",
-     "option_4": "Railway tracks",
-     "correct_answer": 2,
-     "category": "Metallurgy in India and modern materials",
-     "note": "They keep their strength near their melting point, ideal for hot turbine sections.",
-     "source": "https://en.wikipedia.org/wiki/Superalloy"
-    },
-    {
-     "id": 41,
-     "question": "Nitinol, the shape-memory alloy, is made of nickel and which other metal in roughly equal atomic percentages?",
-     "option_1": "Titanium",
-     "option_2": "Aluminium",
-     "option_3": "Cobalt",
-     "option_4": "Chromium",
-     "correct_answer": 1,
-     "category": "Metallurgy in India and modern materials",
-     "note": "Nickel-titanium 'remembers' its shape and springs back when warmed.",
-     "source": "https://en.wikipedia.org/wiki/Nickel_titanium"
-    },
-    {
-     "id": 42,
-     "question": "Tata Iron and Steel Company (TISCO) was established in 1907 in which city?",
-     "option_1": "Bhilai",
-     "option_2": "Rourkela",
-     "option_3": "Jamshedpur",
-     "option_4": "Durgapur",
-     "correct_answer": 3,
-     "category": "Metallurgy in India and modern materials",
-     "note": "The company was established on 26 August 1907 in Jamshedpur.",
-     "source": "https://en.wikipedia.org/wiki/Tata_Steel"
-    }
-   ]
-  }
- ]
+  ]
 }
